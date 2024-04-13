@@ -6,4 +6,5 @@ A script that displays
 - Top 5 directories and size
 - CPU usage with refresh rate of 10 seconds
 
-This script was written as part of my Linux Fundamentals modules that I took for class.
+This script was written as part of my Linux Fundamentals modules that I took for class.   
+More details are available in the project documentation - [ProjDoc-LinFund.pdf](https://github.com/Aux-User/statrep/blob/main/ProjDoc-LinFund.pdf) 
